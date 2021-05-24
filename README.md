@@ -1,19 +1,18 @@
-### Hi there, I'm Rafael Cleydson and I hope you're well !! 👋
+### Olá, me chamo Thiago Paiva !! 👋
 
 
 ### Contact me
-[<img align="left" alt="rafael-ramos | LinkedIn" width="25px" src="https://raw.githubusercontent.com/RcleydsonR/RcleydsonR/main/assets/linkedin.svg" />][linkedin]
-[<img align="left" alt="rafacleydson | Instagram" width="25px" src="https://raw.githubusercontent.com/RcleydsonR/RcleydsonR/main/assets/instagram.svg" />][instagram]
-<a href="mailto:rafael.cleydson@gmail.com"><img align="left" alt="rafael.cleydson " width="22px" src="https://raw.githubusercontent.com/RcleydsonR/RcleydsonR/main/assets/gmail.svg" /></a>
+<a href="mailto:thiagohdaqw@gmail.com"><img align="left" alt="Thiago.Paiva" width="22px" src="/assets/gmail.svg" /></a>
 
 <br />
 
 ### My GitHub Stats
 
-<img align="left" alt="Rafael's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=RcleydsonR&show_icons=true&hide_border=true"/>
+<img align="left" alt="Rafael's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thiagohdaqw&show_icons=true&theme=dark"/>
 
-[instagram]: https://instagram.com/rafacleydson
-[linkedin]: https://linkedin.com/in/rafael-ramos-481bb6203
+
+
+
 
 
 
