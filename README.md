@@ -1,4 +1,5 @@
-### Olá, me chamo Thiago Paiva !! 👋
+### Olá, 
+  sou o Thiago e atualmente estudo Engenharia de Software na Universidade de Brasilía !! 👋
 
 
 ### Contact me
