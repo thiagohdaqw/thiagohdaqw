@@ -2,7 +2,7 @@
 
 
 ### Contact me
-<a href="mailto:thiagohdaqw@gmail.com"><img align="left" alt="Thiago.Paiva" width="22px" src="/assets/gmail.svg" /></a>
+<a href="mailto:thiagosampaiopaiva@gmail.com"><img align="left" alt="Thiago.Paiva" width="22px" src="/assets/gmail.svg" /></a>
 
 <br />
 
