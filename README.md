@@ -1,5 +1,5 @@
 ### Olá, 
-  sou o Thiago e atualmente estudo Engenharia de Software na Universidade de Brasilía !! 👋
+  sou o Thiago e atualmente estudo Engenharia de Software na Universidade de Brasília !! 👋
 
 
 ### Contact me
