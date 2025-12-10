@@ -7,9 +7,6 @@
 
 <br />
 
-### My GitHub Stats
-
-<img align="left" alt="Rafael's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thiagohdaqw&show_icons=true&theme=dark"/>
 
 
 
